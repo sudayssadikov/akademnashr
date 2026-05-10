@@ -221,13 +221,13 @@ a:hover {
     left: -130px;
 }
 
-.div__div2--img {
+.div__div2--img1 {
     position: relative;
     top: -80px;
     border-radius: 12px;
 }
 
-.div__div2--img:hover {
+.div__div2--img1:hover {
     box-shadow: 0 0 20px #FF7500;
     transition: all 0.3s linear;
 }
